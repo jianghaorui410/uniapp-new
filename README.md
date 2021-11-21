@@ -1,5 +1,5 @@
 # uniapp-new
-基于uni-app开发的微信小程序搜图界面
+基于uni-app开发的微信小程序 （搜图）
 
 npm i @dcloudio/uni-ui --save
 npm i sass -D
